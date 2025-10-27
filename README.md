@@ -19,7 +19,6 @@ A Flask-based AI-powered ERP chatbot that integrates with any ERP backend using 
 ## ⚙️ Setup
 ```bash
 pip install -r requirements.txt
-cp .env.example .env
 python app.py
 ```
 
