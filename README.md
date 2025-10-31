@@ -27,5 +27,3 @@ python app.py
 {"message": "Apply sick leave from tomorrow to Friday due to fever"}
 ```
 
----
-MIT License © 2025 Your Name
